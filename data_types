@@ -20,4 +20,9 @@
 - list.remove(value)
 - list.sort
 
+-	for i in list
+		print(i)
+
+- list = list1 => same reference to be used;
+
 ******************* dictionary
