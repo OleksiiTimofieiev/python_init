@@ -1,0 +1,23 @@
+******************* list
+
+- list == kind of array, can be 2d array;
+- list[-1] is ok;
+- list[1:3] => slicing => brand new list from the previous list;
+- each element can be of any type
+- list[1:]
+- list[:2]
+- del list[2] => delete without any gaps
+- list concatanation is possible
+- list * 3 works
+- list('Hello') => list of chars
+
+-	for i in range(len(list))
+		print(i)
+
+- list.index('value')
+- list.append('value')
+- list.insert(position, value)
+- list.remove(value)
+- list.sort
+
+******************* dictionary
